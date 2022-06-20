@@ -21,3 +21,4 @@
 * [NextProt](https://sparql.nextprot.org)
 * [OrthoDB](https://sparql.orthodb.org)
 * [Rhea](https://sparql.rhea-db.org/sparql)
+* [AgroLD](http://agrold.southgreen.fr/sparql)
